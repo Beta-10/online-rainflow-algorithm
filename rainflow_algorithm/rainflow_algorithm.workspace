@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="rainflow_algorithm" Database="">
+  <Project Name="rainflow_algorithm_v0_1" Path="rainflow_algorithm/rainflow_algorithm.project" Active="No"/>
+  <Project Name="rainflow_algorithm_v_0_2" Path="rainflow_algorithm_v_0_2/rainflow_algorithm_v_0_2.project" Active="Yes"/>
+  <Project Name="rainflow_testing" Path="rainflow_testing/rainflow_testing.project" Active="No"/>
+  <Project Name="load_text_file" Path="load_text_file/load_text_file.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="rainflow_algorithm_v0_1" ConfigName="Debug"/>
+      <Project Name="rainflow_algorithm_v_0_2" ConfigName="Debug"/>
+      <Project Name="rainflow_testing" ConfigName="Debug"/>
+      <Project Name="load_text_file" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="rainflow_algorithm_v0_1" ConfigName="Release"/>
+      <Project Name="rainflow_algorithm_v_0_2" ConfigName="Release"/>
+      <Project Name="rainflow_testing" ConfigName="Release"/>
+      <Project Name="load_text_file" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
